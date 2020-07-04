@@ -1,0 +1,15 @@
+TFG
+Valladolid
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2422_datos-horarios.csv?k=cle&l=2422&datos=det&w=0&f=temperatura&x=
+Medina de Rioseco
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2604B_datos-horarios.csv?k=cle&l=2604B&datos=det&w=0&f=temperatura&x=
+Sardon
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2172Y_datos-horarios.csv?k=cle&l=2172Y&datos=det&w=0&f=temperatura&x=
+Peñafiel
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2166Y_datos-horarios.csv?k=cle&l=2166Y&datos=det&w=0&f=temperatura&x=
+Fuente del Sol
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2517A_datos-horarios.csv?k=cle&l=2517A&datos=det&w=0&f=temperatura&x=
+Rueda
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2507Y_datos-horarios.csv?k=cle&l=2507Y&datos=det&w=0&f=temperatura&x=
+Olmedo
+http://www.aemet.es/es/eltiempo/observacion/ultimosdatos_2503B_datos-horarios.csv?k=cle&l=2503B&datos=det&w=0&f=temperatura&x=
